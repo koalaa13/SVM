@@ -1,0 +1,35 @@
+GEYSER
+---------------------------
+linear:
+c = 10.0 step = 0.001
+accuracy = 0.9099099099099099
+
+poly:
+p = 2
+c = 0.05
+step = 1e-06
+accuracy = 0.7702702702702703
+
+gaussian:
+beta = 3
+c = 5.0
+step = 0.1
+accuracy = 0.9144144144144144
+
+CHIPS
+---------------------------
+linear:
+c = 5.0 step = 0.1
+accuracy = 0.5677966101694916
+
+poly:
+p = 3
+c = 1.0
+step = 0.1
+accuracy = 0.635593220338983
+
+gaussian:
+beta = 5
+c = 0.1
+step = 0.1
+accuracy = 0.8305084745762712

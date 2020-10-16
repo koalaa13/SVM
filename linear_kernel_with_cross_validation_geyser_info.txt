@@ -1,0 +1,160 @@
+c = 0.05 step = 1
+accuracy = 0.6036036036036037
+c = 0.05 step = 0.1
+accuracy = 0.6036036036036037
+c = 0.05 step = 0.01
+accuracy = 0.46396396396396394
+c = 0.05 step = 0.001
+accuracy = 0.6801801801801802
+c = 0.05 step = 0.0001
+accuracy = 0.6126126126126126
+c = 0.05 step = 1e-05
+accuracy = 0.6036036036036037
+c = 0.05 step = 1e-06
+accuracy = 0.6036036036036037
+c = 0.05 step = 1e-07
+accuracy = 0.6036036036036037
+c = 0.05 step = 1e-08
+accuracy = 0.6036036036036037
+c = 0.05 step = 1e-09
+accuracy = 0.6036036036036037
+c = 0.1 step = 1
+accuracy = 0.6036036036036037
+c = 0.1 step = 0.1
+accuracy = 0.49099099099099097
+c = 0.1 step = 0.01
+accuracy = 0.4864864864864865
+c = 0.1 step = 0.001
+accuracy = 0.7342342342342343
+c = 0.1 step = 0.0001
+accuracy = 0.6396396396396397
+c = 0.1 step = 1e-05
+accuracy = 0.6036036036036037
+c = 0.1 step = 1e-06
+accuracy = 0.6036036036036037
+c = 0.1 step = 1e-07
+accuracy = 0.6036036036036037
+c = 0.1 step = 1e-08
+accuracy = 0.6036036036036037
+c = 0.1 step = 1e-09
+accuracy = 0.6036036036036037
+c = 0.5 step = 1
+accuracy = 0.6036036036036037
+c = 0.5 step = 0.1
+accuracy = 0.5
+c = 0.5 step = 0.01
+accuracy = 0.536036036036036
+c = 0.5 step = 0.001
+accuracy = 0.7342342342342343
+c = 0.5 step = 0.0001
+accuracy = 0.6171171171171171
+c = 0.5 step = 1e-05
+accuracy = 0.6036036036036037
+c = 0.5 step = 1e-06
+accuracy = 0.6036036036036037
+c = 0.5 step = 1e-07
+accuracy = 0.6036036036036037
+c = 0.5 step = 1e-08
+accuracy = 0.6036036036036037
+c = 0.5 step = 1e-09
+accuracy = 0.6036036036036037
+c = 1.0 step = 1
+accuracy = 0.527027027027027
+c = 1.0 step = 0.1
+accuracy = 0.4774774774774775
+c = 1.0 step = 0.01
+accuracy = 0.47297297297297297
+c = 1.0 step = 0.001
+accuracy = 0.7162162162162162
+c = 1.0 step = 0.0001
+accuracy = 0.6126126126126126
+c = 1.0 step = 1e-05
+accuracy = 0.6036036036036037
+c = 1.0 step = 1e-06
+accuracy = 0.6036036036036037
+c = 1.0 step = 1e-07
+accuracy = 0.6036036036036037
+c = 1.0 step = 1e-08
+accuracy = 0.6036036036036037
+c = 1.0 step = 1e-09
+accuracy = 0.6036036036036037
+c = 5.0 step = 1
+accuracy = 0.536036036036036
+c = 5.0 step = 0.1
+accuracy = 0.46846846846846846
+c = 5.0 step = 0.01
+accuracy = 0.5495495495495496
+c = 5.0 step = 0.001
+accuracy = 0.7207207207207207
+c = 5.0 step = 0.0001
+accuracy = 0.6396396396396397
+c = 5.0 step = 1e-05
+accuracy = 0.6036036036036037
+c = 5.0 step = 1e-06
+accuracy = 0.6036036036036037
+c = 5.0 step = 1e-07
+accuracy = 0.6036036036036037
+c = 5.0 step = 1e-08
+accuracy = 0.6036036036036037
+c = 5.0 step = 1e-09
+accuracy = 0.6036036036036037
+c = 10.0 step = 1
+accuracy = 0.46396396396396394
+c = 10.0 step = 0.1
+accuracy = 0.5045045045045045
+c = 10.0 step = 0.01
+accuracy = 0.47297297297297297
+c = 10.0 step = 0.001
+accuracy = 0.7027027027027027
+c = 10.0 step = 0.0001
+accuracy = 0.5990990990990991
+c = 10.0 step = 1e-05
+accuracy = 0.6036036036036037
+c = 10.0 step = 1e-06
+accuracy = 0.6036036036036037
+c = 10.0 step = 1e-07
+accuracy = 0.6036036036036037
+c = 10.0 step = 1e-08
+accuracy = 0.6036036036036037
+c = 10.0 step = 1e-09
+accuracy = 0.6036036036036037
+c = 50.0 step = 1
+accuracy = 0.5180180180180181
+c = 50.0 step = 0.1
+accuracy = 0.4594594594594595
+c = 50.0 step = 0.01
+accuracy = 0.5
+c = 50.0 step = 0.001
+accuracy = 0.7252252252252253
+c = 50.0 step = 0.0001
+accuracy = 0.5945945945945946
+c = 50.0 step = 1e-05
+accuracy = 0.6036036036036037
+c = 50.0 step = 1e-06
+accuracy = 0.6036036036036037
+c = 50.0 step = 1e-07
+accuracy = 0.6036036036036037
+c = 50.0 step = 1e-08
+accuracy = 0.6036036036036037
+c = 50.0 step = 1e-09
+accuracy = 0.6036036036036037
+c = 100.0 step = 1
+accuracy = 0.47297297297297297
+c = 100.0 step = 0.1
+accuracy = 0.47297297297297297
+c = 100.0 step = 0.01
+accuracy = 0.5
+c = 100.0 step = 0.001
+accuracy = 0.7072072072072072
+c = 100.0 step = 0.0001
+accuracy = 0.5900900900900901
+c = 100.0 step = 1e-05
+accuracy = 0.6036036036036037
+c = 100.0 step = 1e-06
+accuracy = 0.6036036036036037
+c = 100.0 step = 1e-07
+accuracy = 0.6036036036036037
+c = 100.0 step = 1e-08
+accuracy = 0.6036036036036037
+c = 100.0 step = 1e-09
+accuracy = 0.6036036036036037
